@@ -2,7 +2,10 @@
 
 [![Website](https://img.shields.io/website?url=https://ivodsbarros.github.io/website-portfolio/)](https://ivodsbarros.github.io/website-portfolio/)
 
-![Website Homepage Preview](/images/homepage_preview.png)
+
+<a href="https://ivodsbarros.github.io/website-portfolio/">
+  <img src="/images/homepage_preview.png" alt="Homepage Preview">
+</a>
 
 > With the primary purpose of providing a platform to articulate my professional journey and 
 effectively present my portfolio, I have developed this personal website. 

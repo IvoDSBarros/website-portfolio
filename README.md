@@ -13,7 +13,7 @@ The underlying HTML, CSS and JavaScript codebase for this site is available in t
 This website includes the following sections and content:
 
 * **Homepage:** A brief introduction of my background and professional experience.
-* **Work:** A showcases of my selected projects on visualization, machine learning and web scraping.
+* **Work:** A showcase of my selected projects on visualization, machine learning and web scraping.
 * **About:** Information about my experience and interests.
 * **Contact:** How to connect with me.
 

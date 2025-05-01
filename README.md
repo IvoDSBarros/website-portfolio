@@ -19,7 +19,6 @@ This website includes the following sections and content:
 * **About:** Information about my experience and interests.
 * **Contact:** How to connect with me.
 
-
 ## Built With
 
 This website leverages the following technologies:
@@ -36,6 +35,5 @@ This website leverages the following technologies:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
 
 ⭐️ From Ivo Barros [IvoDSBarros](https://github.com/IvoDSBarros)

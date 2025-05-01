@@ -3,8 +3,7 @@
 [![Website](https://img.shields.io/website?url=https://ivodsbarros.github.io/website-portfolio/)](https://ivodsbarros.github.io/website-portfolio/)
 
 <a href="https://ivodsbarros.github.io/website-portfolio/">
-  <img src="/images/homepage_preview.png" alt="Homepage Preview">
-  >Click the image to navigate into the website
+  <img src="/images/homepage_preview.png" alt="Homepage Preview" title="Click the image to navigate into my website">
 </a>
 
 > With the primary purpose of providing a platform to articulate my professional journey and 

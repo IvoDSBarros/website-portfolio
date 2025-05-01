@@ -1,4 +1,4 @@
-# [Ivo Barros' Portfolio Website]
+# Ivo Barros' Portfolio Website
 
 [![Website](https://img.shields.io/website?url=https://ivodsbarros.github.io/website-portfolio/)](https://ivodsbarros.github.io/website-portfolio/)
 
@@ -36,4 +36,4 @@ This website leverages the following technologies:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 
-⭐️ From [Ivo Barros] ([IvoDSBarros](https://github.com/[IvoDSBarros]))
+⭐️ From Ivo Barros ([IvoDSBarros](https://github.com/[IvoDSBarros]))

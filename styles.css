@@ -1007,7 +1007,7 @@ html {
    CONTACT SECTION
    -------------------------------------------------- */
 .contact-section.section {
-  background-color: rgba(30, 30, 30, 0.8);
+  background-color: rgba(30, 30, 30, 0.85);
   padding: 40px 20px;
   display: flex;
   justify-content: center;

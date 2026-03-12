@@ -9,6 +9,7 @@
           content="Portfolio of Ivo Barros"
       />
       <link rel="stylesheet" href="./styles.css">
+  
       <link rel="icon" href="/images/favicon/favicon.ico" type="image/x-icon">
       <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
       <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
@@ -121,8 +122,8 @@
             </div>
           </article>
 
-          <!-- Machine Learning Section -->
-          <article class="work-card machine-learning">
+          <!-- AI/ML Section -->
+          <article class="work-card ai-machine-learning">
             <div class="card-header">
               <img
                 src="./images/icon_ml.png"
@@ -130,9 +131,20 @@
                 aria-hidden="true"
                 class="card-icon"
               />
-              <h3>MACHINE LEARNING</h3>
+              <h3>AI/ML</h3>
             </div>
             <div class="work-gallery">
+              <!--  New Rock N' AI App -->
+              <div class="gallery-item">
+                <img
+                  src="./images/icon_rock_ai_app.png"
+                  alt="Rock N' AI App"
+                  class="gallery-image"
+                />
+                <a href="#rock-ai-app" class="gallery-text"
+                  >Rock N' AI App</a
+                >
+              </div>
               <div class="gallery-item">
                 <img
                   src="./images/icon_rock_is_not_dead_nlp.png"
@@ -355,6 +367,37 @@
       </div>
     </section>
 
+    <section class="project-detail-section" viz-project="#rock-ai-app" id="rock-ai-app">
+      <div class="project-content-wrapper">
+        <div class="project-aligned-block">
+          <h2 class="project-title">Rock N' AI App</h2>
+          <div class="project-info">
+            <p>Tools: Crew AI, Dash/Plotly, Python, HTML, PythonAnywhere, Github | Date: 2026</p>
+          </div>
+
+          <div class="project-detail">
+            <p>An AI narrative engine for guitar icon media intelligence</p>
+          </div>
+
+          <a
+          href="https://github.com/IvoDSBarros/rock-n-ai"
+          target="_blank"
+          class="project-link"
+        >
+          <span class="icon">🔗</span>
+          <span class="link-text">View the project</span>
+        </a>
+        
+        <figure class="project-figure">
+          <img
+            src="./images/img_rock_ai_app.png"
+            alt="Rock N' AI App"
+            class="project-image"
+          />
+        </figure>
+      </div>
+    </section>
+
     <section class="project-detail-section" viz-project="nlp-experiments" id="nlp-experiments">
       <div class="project-content-wrapper">
         <div class="project-aligned-block">
@@ -447,7 +490,7 @@
         </figure>
       </div>
     </section>
-    
+
     <section class="project-detail-section" viz-project="web-scraping-use-cases" id="web-scraping-use-cases">
       <div class="project-content-wrapper">
         <div class="project-aligned-block">
@@ -594,4 +637,3 @@
     
   </body>
 </html>
-

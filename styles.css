@@ -1091,7 +1091,7 @@ html {
    -------------------------------------------------- */
 .about-section.section {
   align-items: flex-start;
-  background-color: rgba(63,63,63, 0.6); 
+  background-color: rgba(63,63,63, 0.7); 
   padding: 80px 40px;
   position: relative;
   overflow: hidden;
@@ -1154,7 +1154,7 @@ html {
    CONTACT SECTION
    -------------------------------------------------- */
 .contact-section.section {
-  background-color: rgba(30, 30, 30, 0.8);
+  background-color: rgba(30, 30, 30, 0.85);
   padding: 40px 20px;
   display: flex;
   justify-content: center;
@@ -2879,3 +2879,4 @@ hr {
     vertical-align: middle;
   }
 }
+
